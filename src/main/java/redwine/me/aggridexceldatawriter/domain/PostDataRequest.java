@@ -1,6 +1,5 @@
 package redwine.me.aggridexceldatawriter.domain;
 
-
 import lombok.*;
 import redwine.me.aggridexceldatawriter.Entity.Book;
 
