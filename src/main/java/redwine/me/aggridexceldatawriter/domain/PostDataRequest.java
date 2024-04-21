@@ -37,7 +37,4 @@ public class PostDataRequest {
 				.isbn(isbn)
 				.build();
 	}
-
-
-
 }
